@@ -25,3 +25,4 @@ function button3(){
     };
     document.getElementById("txt").innerHTML= "la specie è:"+" "+ animale2["specie"]+" "+" la razza è:"+" "+animale2["razza"]+" "+"le zampe sono :"+animale2["zampe"];
 }
+
